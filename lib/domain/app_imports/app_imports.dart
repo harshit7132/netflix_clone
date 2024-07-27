@@ -1,0 +1,17 @@
+export 'package:carousel_slider/carousel_slider.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export 'package:font_awesome_flutter/font_awesome_flutter.dart';
+export 'package:netflix_clone/Presentation/Custom_Widgets/custom_homeSlider/custom_slider_items.dart';
+export 'package:netflix_clone/Presentation/Custom_Widgets/custom_slider.dart';
+export 'package:netflix_clone/Presentation/Home_Screen/Bottom_nav_pages/home_screens/bottom_home_screen.dart';
+export 'package:netflix_clone/Presentation/Home_Screen/Bottom_nav_pages/home_screens/detail_movies_screen.dart';
+export 'package:netflix_clone/data/models/movies_model.dart';
+export 'package:netflix_clone/domain/app_color_constants/app_color_constants.dart';
+export 'package:netflix_clone/domain/app_constants/app_constants.dart';
+export 'package:netflix_clone/domain/ui_helper/ui_helper.dart';
+export 'package:netflix_clone/presentation/custom_widgets/custom_TextField.dart';
+export 'package:netflix_clone/presentation/custom_widgets/custom_buttons.dart';
+export 'package:netflix_clone/presentation/custom_widgets/custom_container.dart';
+export 'package:netflix_clone/presentation/home_screen/home_screen.dart';
+export 'package:netflix_clone/presentation/signup_screen/signup_screen.dart';
